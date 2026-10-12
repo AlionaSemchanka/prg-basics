@@ -1,0 +1,10 @@
+a = input('a=')
+side_a=int(a)
+b= input('b=')
+side_b= int(b)
+c=input('c=')
+side_c =int(c)
+volume =side_a*side_b*side_c
+surface_area=2*(side_a*side_b+side_b*side_c+ side_a*side_c)
+print("volume of cuboid: ", volume)
+print('surface area of cuboid: ', surface_area)

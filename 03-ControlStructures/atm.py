@@ -12,7 +12,7 @@ while True:
     print("3. Withdraw")
     print("4. Check PIN")
     print("5. Change PIN")
-
+    print("6. Exit")
 
     choice = input("Choose an option (1-6): ")
     print()
